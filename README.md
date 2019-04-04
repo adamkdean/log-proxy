@@ -15,7 +15,7 @@
 # for all your man-in-the-middle debugging needs
 ```
 
-# Usage
+## Usage
 
 There are two environment variables, `HTTP_PORT`, and `TARGET_URL`, which default to `8000` and `localhost` respectively.
 
@@ -31,11 +31,11 @@ $ docker run \
   docker.io/adamkdean/log-proxy
 ```
 
-# Versions
+## Versions
 
 `1.0.0` is the only version so far, it's very basic and does what I need.
 
-# License
+## License
 
 ```
 The Adam is the King license
