@@ -1,9 +1,13 @@
 {
-  "name": "logproxy",
+  "name": "log-proxy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "keywords": [],
   "author": "Adam K Dean <adamkdean@googlemail.com>",
-  "license": "ADAMISTHEKING"
+  "license": "ADAMISTHEKING",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "http-proxy": "^1.17.0"
+  }
 }
